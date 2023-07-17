@@ -1,6 +1,6 @@
 from aiogram import Bot, Dispatcher, executor, types
 
-Bot_token = '6378909809:AAGj0orG3_y5N--fMPNn-i2WCgkzd_T8bSw' #токен вашего бота в телеграм
+Bot_token = '' #токен вашего бота в телеграм
 ID = ''#твой айди в тг
 
 bot = Bot(Bot_token)
